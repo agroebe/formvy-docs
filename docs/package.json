@@ -1,7 +1,7 @@
 {
   "name": "formvy-docs",
   "version": "0.0.1",
-  "description": "Technical documentation of Formvy",
+  "description": "Technical documentation for Formvy",
   "main": "index.js",
   "authors": {
     "name": "Andrew Groebe",

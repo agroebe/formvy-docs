@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Technical documentation of Formvy
+tagline: Technical documentation for Formvy
 actionText: Quick Start →
 actionLink: /guide/
 features:
